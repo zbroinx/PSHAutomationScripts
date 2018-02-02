@@ -1,5 +1,6 @@
 # PSHAutomationScripts
 This program create an icon in the notification area that allow to create shortcut to powershell scripts.
+
 Icon left click will open the program folder.
 Icon right click will open the context menu, that show the configured scripts and the config option.
 
